@@ -24,10 +24,6 @@ header .container {
   margin-bottom: 8px;
 }
 
-#profile p {
-
-}
-
 #info {
   display: flex;
   flex-direction: column;
